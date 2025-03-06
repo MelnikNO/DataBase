@@ -7,3 +7,6 @@
 
 ## Тема 2
 ### Лабораторная работа №2 [ЛР2](https://github.com/MelnikNO/DataBase/tree/main/ЛР2)
+
+## Тема 3
+### Лабораторная работа №3 [ЛР3](https://github.com/MelnikNO/DataBase/blob/main/ЛР3.md)
