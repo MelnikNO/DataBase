@@ -1,12 +1,17 @@
 # DataBase
 
-## Тема 1
+## Лабораторные работы
 ### Лабораторная работа №1 [ЛР1](https://github.com/MelnikNO/DataBase/blob/main/ЛР1.md)
 
-### Самостоятельная работа №1 [СР1](https://github.com/MelnikNO/DataBase/blob/main/СР%201/СР-1.md)
-
-## Тема 2
 ### Лабораторная работа №2 [ЛР2](https://github.com/MelnikNO/DataBase/tree/main/ЛР2)
 
-## Тема 3
 ### Лабораторная работа №3 [ЛР3](https://github.com/MelnikNO/DataBase/blob/main/ЛР3.md)
+
+### Лабораторная работа №4 [ЛР4](https://github.com/MelnikNO/DataBase/blob/main/ЛР3.md)
+
+### Лабораторная работа №5 [ЛР5](https://github.com/MelnikNO/DataBase/blob/main/ЛР3.md)
+
+---
+
+## Самостоятельные работы
+### Самостоятельная работа №1 [СР1](https://github.com/MelnikNO/DataBase/blob/main/СР%201/СР-1.md)
