@@ -9,7 +9,7 @@
 
 ### Лабораторная работа №4 [ЛР4](https://github.com/MelnikNO/DataBase/blob/main/ЛР4.md)
 
-### Лабораторная работа №5 [ЛР5](https://github.com/MelnikNO/DataBase/blob/main/ЛР3.md)
+### Лабораторная работа №5 [ЛР5](https://github.com/MelnikNO/DataBase/blob/main/ЛР5.md)
 
 ---
 
