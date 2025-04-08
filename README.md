@@ -11,7 +11,7 @@
 
 ### Лабораторная работа №5 [ЛР5](https://github.com/MelnikNO/DataBase/blob/main/ЛР5.md)
 
-### Лабораторная работа №6 [ЛР6]()
+### Лабораторная работа №6 [ЛР6](https://github.com/MelnikNO/DataBase/blob/main/ЛР%206/README.md)
 
 ---
 
