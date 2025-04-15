@@ -17,3 +17,4 @@
 
 ## Самостоятельные работы
 ### Самостоятельная работа №1 [СР1](https://github.com/MelnikNO/DataBase/blob/main/СР%201/СР-1.md)
+### Самостоятельная работа №2 [СР2](https://github.com/MelnikNO/DataBase/blob/main/СР2/README.md)
